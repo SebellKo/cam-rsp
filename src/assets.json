@@ -1,0 +1,28 @@
+{
+  "images": {
+    "rock": {
+      "url": "https://raw.githubusercontent.com/agent8/agent8-public-resources/main/rock-hand.png",
+      "description": "Rock hand gesture image",
+      "metadata": {
+        "width": 200,
+        "height": 200
+      }
+    },
+    "paper": {
+      "url": "https://raw.githubusercontent.com/agent8/agent8-public-resources/main/paper-hand.png",
+      "description": "Paper hand gesture image",
+      "metadata": {
+        "width": 200,
+        "height": 200
+      }
+    },
+    "scissors": {
+      "url": "https://raw.githubusercontent.com/agent8/agent8-public-resources/main/scissors-hand.png",
+      "description": "Scissors hand gesture image",
+      "metadata": {
+        "width": 200,
+        "height": 200
+      }
+    }
+  }
+}
