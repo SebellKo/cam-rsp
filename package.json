@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@agent8/gameserver": "^1.5.3",
@@ -19,6 +20,7 @@
     "react-webcam": "^7.2.0"
   },
   "devDependencies": {
+    "gh-pages": "^6.2.0",
     "@types/react": "^18.2.33",
     "@types/react-dom": "^18.2.11",
     "@vitejs/plugin-react": "^4.3.4",
